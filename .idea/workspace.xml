@@ -10,6 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="849eba4e-0f43-4776-a630-ddb2fa915c5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/node/rpc.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node/rpc.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617691369606</updated>
-      <workItem from="1617691370722" duration="594000" />
+      <workItem from="1617691370722" duration="2381000" />
     </task>
     <servers />
   </component>
@@ -53,9 +54,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2270" y="486" width="586" height="490" key="find.popup" timestamp="1617691557347">
+    <state x="2270" y="486" width="586" height="490" key="find.popup" timestamp="1617698412733">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="2270" y="486" width="586" height="490" key="find.popup/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1617691557347" />
+    <state x="2270" y="486" width="586" height="490" key="find.popup/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1617698412733" />
   </component>
 </project>
